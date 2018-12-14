@@ -10,5 +10,5 @@ Need to intsall node first.
 
 ## How to use
 1. clone this repository to your local.
-2. use command 'node [script name] -h'
+2. use command `node [script name] -h`
 to see how to use each script.
