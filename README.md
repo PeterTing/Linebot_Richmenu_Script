@@ -1,6 +1,6 @@
 # Linebot_Richmenu_Script
 ## Description
-Use **exec** method to execute **curl** relative command for linebot richmenu api.
+Use **exec** method to execute **curl** related command for linebot richmenu api.
 
 ## Objective
 Make richmenu api easier to use.
