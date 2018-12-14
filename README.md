@@ -1,13 +1,14 @@
 # Linebot_Richmenu_Script
 ## Description
-Use 'exec' method to execute 'curl' relative command for linebot richmenu api.
+Use **exec** method to execute **curl** relative command for linebot richmenu api.
 
 ## Objective
-Create script for linebot richmenu api can make it easier to use.
+Make richmenu api easier to use.
 
 ## Requirement
 Need to intsall node first.
 
 ## How to use
-use command 'node [script name] -h'
+1. clone this repository to your local folder.
+2. use command 'node [script name] -h'
 to see how to use each script.
